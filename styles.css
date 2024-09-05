@@ -248,8 +248,8 @@ ul {
   left: -2.5%;
   width: 105%;
   height: 25%;
-  background-color: var(--accent-color);
   background: var( --button-dark-background);
+  background-color: var(--accent-color);
   z-index: -1;
 }
 
